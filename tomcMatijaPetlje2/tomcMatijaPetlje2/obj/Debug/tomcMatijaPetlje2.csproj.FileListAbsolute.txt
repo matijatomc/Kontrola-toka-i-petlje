@@ -1,0 +1,6 @@
+C:\Users\Matija\source\repos\tomcMatijaPetlje2\tomcMatijaPetlje2\bin\Debug\tomcMatijaPetlje2.exe.config
+C:\Users\Matija\source\repos\tomcMatijaPetlje2\tomcMatijaPetlje2\bin\Debug\tomcMatijaPetlje2.exe
+C:\Users\Matija\source\repos\tomcMatijaPetlje2\tomcMatijaPetlje2\bin\Debug\tomcMatijaPetlje2.pdb
+C:\Users\Matija\source\repos\tomcMatijaPetlje2\tomcMatijaPetlje2\obj\Debug\tomcMatijaPetlje2.csprojAssemblyReference.cache
+C:\Users\Matija\source\repos\tomcMatijaPetlje2\tomcMatijaPetlje2\obj\Debug\tomcMatijaPetlje2.exe
+C:\Users\Matija\source\repos\tomcMatijaPetlje2\tomcMatijaPetlje2\obj\Debug\tomcMatijaPetlje2.pdb
