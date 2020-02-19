@@ -1,0 +1,5 @@
+C:\Users\Matija\source\repos\tomcMatijaPetlje6\tomcMatijaPetlje6\bin\Debug\tomcMatijaPetlje6.exe.config
+C:\Users\Matija\source\repos\tomcMatijaPetlje6\tomcMatijaPetlje6\bin\Debug\tomcMatijaPetlje6.exe
+C:\Users\Matija\source\repos\tomcMatijaPetlje6\tomcMatijaPetlje6\bin\Debug\tomcMatijaPetlje6.pdb
+C:\Users\Matija\source\repos\tomcMatijaPetlje6\tomcMatijaPetlje6\obj\Debug\tomcMatijaPetlje6.exe
+C:\Users\Matija\source\repos\tomcMatijaPetlje6\tomcMatijaPetlje6\obj\Debug\tomcMatijaPetlje6.pdb
